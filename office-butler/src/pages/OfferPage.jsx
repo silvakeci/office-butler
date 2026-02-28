@@ -115,7 +115,7 @@ export default function OfferPage() {
 
       <footer className="footer">
         <div className="footerNote">
-          Prototype focus: UX structure, AI-in-UI, and product workflow (no backend).
+          
         </div>
       </footer>
     </div>
